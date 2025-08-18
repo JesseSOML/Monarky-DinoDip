@@ -140,7 +140,7 @@
                 "weekforoptions": [
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
-                        "chancetodrop": 0.6
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
@@ -152,19 +152,19 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/ScorchedEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
@@ -172,7 +172,7 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.8
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
@@ -185,14 +185,6 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
                         "chancetodrop": 0.5
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.2
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
