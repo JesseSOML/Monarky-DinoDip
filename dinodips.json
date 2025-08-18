@@ -139,12 +139,12 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "dino": "/Game/PrimalEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-                        "chancetodrop": 0.8
+                        "chancetodrop": 0.6
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
@@ -163,12 +163,12 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-                        "chancetodrop": 0.6
+                        "dino": "/Game/ScorchedEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
+                        "chancetodrop": 0.7
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
-                        "chancetodrop": 0.8
+                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+                        "chancetodrop": 0.7
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
@@ -183,7 +183,7 @@
                         "chancetodrop": 0.7
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
                         "chancetodrop": 0.5
                     },
                     {
@@ -191,8 +191,8 @@
                         "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+                        "chancetodrop": 0.5
                     }
                 ],
                 "dipstogive": 5
@@ -200,8 +200,8 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
+                        "chancetodrop": 0.5
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
@@ -224,11 +224,11 @@
                         "chancetodrop": 0.8
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
                         "chancetodrop": 0.6
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/",
                         "chancetodrop": 0.5
                     },
                     {
@@ -248,7 +248,7 @@
                         "chancetodrop": 0.7
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/",
                         "chancetodrop": 0.7
                     },
                     {
@@ -261,7 +261,7 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+                        "dino": "/Game/ScorchedEarth/Dinos/",
                         "chancetodrop": 0.4
                     },
                     {
