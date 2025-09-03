@@ -196,27 +196,27 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
                         "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/ScorchedEarth/Dinos//Bison/Bison_Character_BP.Bison_Character_C",
                         "chancetodrop": 0.3
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-                        "chancetodrop": 0.3
+                        "dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
+                        "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
                         "chancetodrop": 0.3
                     },
                     {
@@ -229,19 +229,11 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
-                        "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/",
-                        "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/",
-                        "chancetodrop": 0.8
+                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+                        "chancetodrop": 0.9
                     }
                 ],
                 "dipstogive": 5
