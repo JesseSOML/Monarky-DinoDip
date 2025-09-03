@@ -212,7 +212,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/ScorchedEarth/Dinos//Bison/Bison_Character_BP.Bison_Character_C",
+                        "dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
                         "chancetodrop": 0.3
                     },
                     {
