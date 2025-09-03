@@ -245,10 +245,6 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/ScorchedEarth/Dinos//Bison/Bison_Character_BP.Bison_Character_C",
-                        "chancetodrop": 0.4
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
                         "chancetodrop": 0.5
                     },
@@ -259,10 +255,6 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
                         "chancetodrop": 0.6
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/",
-                        "chancetodrop": 0.4
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
@@ -295,14 +287,6 @@
                     {
                         "dino": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
                         "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "/Game/ASA/Dinos/",
-                        "chancetodrop": 0.5
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-                        "chancetodrop": 0.6
                     }
                 ],
                 "dipstogive": 5
